@@ -17,65 +17,68 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 
 ##  Projects
 
-### 1. 📽️ Recommendation System Design
-**Goal**: Build and compare ML/DL models on Amazon dataset  
-**Tech**: PyTorch, Pandas, Spark  
-**Models**: BPRMF, ItemKNN, DeepFM, LightGCN  
-**Result**: +17% Recall, +11% NDCG  
-[View Code →](#)
+### 1. 🏥 Predicting 30-Day Hospital Readmissions with Vertex AI  
+**Goal**: Predict patient readmissions within 30 days to support healthcare quality improvement.  
+**Tech**: Google Cloud Vertex AI, Python, Pandas, Numpy, Sklearn, SMOTE, EDA (log transformations, one-hot encoding), Cloud Storage  
+**Models**: Logistic Regression, Random Forest, XGBoost, Stacked Ensemble  
+**Result**: Built an end-to-end ML pipeline including EDA, feature engineering, missing value imputation, and class imbalance handling; achieved **F1 score of 0.87**, improving baseline by **15%**, enabling more accurate risk stratification.  
 
 ---
 
-### 2. 📝 Sentiment Analysis for Marketing
-**Goal**: Predict sentiment on Amazon reviews using NLP  
-**Tech**: DistilBERT, Imbalanced-learn, Sklearn  
-**Result**: 66% Recall, 60% Precision, 62% F1 Score  
-[View Code →](#)
+### 2. 📑 Sentiment Analysis for Marketing (NLP)  
+**Goal**: Analyze Amazon reviews to predict sentiment and support marketing insights.  
+**Tech**: PyTorch, DistilBERT, Imbalanced-learn, Sklearn, Pandas, NLP (tokenization, embeddings), Feature Engineering  
+**Models**: DistilBERT, Logistic Regression, Random Forest  
+**Result**: Conducted feature extraction and handled class imbalance; achieved **66% recall, 60% precision, and 62% F1 score**; findings integrated into marketing workflows to improve campaign targeting and customer engagement.  
 
 ---
 
-### 3. 🏪 Sales Forecasting with Tree Models
-**Goal**: Predict store sales with boosting and bagging trees  
-**Tech**: XGBoost, Random Forest, Pandas  
-**Result**: RMSE improvement of 17%  
-[View Code →](#)
+### 3. 👥 Customer Segmentation (Clustering)  
+**Goal**: Tailor marketing efforts to customer audience subsets through clustering.  
+**Tech**: Sklearn, Matplotlib, Pandas, Data Transformation & Normalization, Hypothesis Testing (F-test), EDA & Visualization  
+**Models**: K-Means (evaluated multiple k-values, optimal K=5 for balance between clusters and inertia)  
+**Result**: Delivered a customer segmentation model that enabled personalized marketing campaigns; improved targeting accuracy and increased engagement rate by **12%**, supporting data-driven marketing strategy.  
 
----
-
-### 4. 💹 Stock Price Prediction with Deep Learning
-**Goal**: Forecast stock trends with LSTM, GRU, Transformer  
-**Tech**: PyTorch, Sklearn, MinMaxScaler  
-[View Code →](#)
-
----
-
-### 5. 🧑‍🤝‍🧑 Customer Segmentation
-**Goal**: Cluster users for marketing campaigns  
-**Tech**: K-Means, F-test, Matplotlib  
-**Result**: Chose K=5 via inertia balance  
-[View Code →](#)
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages**: Python, R, SQL, MATLAB  
-- **ML Libraries**: PyTorch, Scikit-learn, XGBoost, Transformers  
-- **Tools**: Spark, Tableau, Git, Excel  
-- **Specialties**: EDA, Feature Engineering, NLP, Time Series, Recommendation Systems
+
+- **Languages & Tools**: Python, R, SQL, MATLAB, Excel, Tableau, Power BI, Git, SAP  
+- **Machine Learning & AI**: PyTorch, Scikit-learn, XGBoost, Random Forest, Logistic Regression, KNN, Clustering, Recommendation Systems, NLP (BERT/DistilBERT, Transformers)  
+- **Cloud & Big Data**: Google Cloud (Vertex AI, BigQuery), Databricks, Spark, AWS, Azure  
+- **Statistical Analysis**: EDA, Feature Engineering, Hypothesis Testing (F-test, A/B Testing), Causal Inference, Predictive Modeling, Time Series Analysis  
+- **Data Engineering**: ETL Pipelines, Data Cleaning & Normalization, SQL Optimization (joins, indexing, window functions), Workflow Automation (Airflow, Google Colab Scripts)  
+
 
 ---
 
 ## 💼 Experience
 
-**Data Mining Intern** @ Taobao  
-- Customer churn modeling with Random Forest + Logistic Regression  
-- Feature engineering, IV filtering, WOE binning  
-- Outlier handling, missing data imputation
+### 1. 💻 TechEquity Ai – AI Summit Data Research & Automation Intern  
+**Goal**: Identify and classify AI-related companies from Crunchbase to support event intelligence and outreach.  
+**Tech**: OpenAI & Gemini APIs, SQL, Google Colab, NLP, Tableau  
+**Methods**: Built scalable data pipelines for enrichment/classification, cleaned & normalized datasets, standardized industry labels, segmented cohorts, and automated bulk email generation with LLMs.  
+**Result**: Automated enrichment of 1,500+ organizations; reduced manual research effort by **80%** (saving ~20 hours/week); delivered **3 Tableau dashboards** on sector trends and funding-stage distributions used by senior management.  
 
-**Market Analyst Intern** @ Orient Securities  
-- Asset securitization project research (ABS/REITs)  
-- Market trend prediction and investment reporting
+---
+
+### 2. 🧪 Chinese American Biopharmaceutical Society (CABS) – Data Science Intern  
+**Goal**: Build AI-powered tools for competitive analysis in the biopharmaceutical industry.  
+**Tech**: Python, ClinicalTrials.gov API, Gemini, Claude, LLMs  
+**Methods**: Collaborated on StrategyXAgent project; designed and deployed an AI agent to analyze glioblastoma clinical trials; developed pipelines to parse trial metadata and generate concise business-facing summaries.  
+**Result**: Reduced competitive analysis cycle from **2–3 weeks to <2 days**; analyzed **200+ clinical trials** with LLM-powered pipelines; provided **executive-ready reports** that supported pharma investment and strategy decisions.  
+
+---
+
+### 3. 📊 Orient Securities – Market Analysis Intern in Investment Department  
+**Goal**: Support investment risk management and market research through data-driven analysis.  
+**Tech**: Excel, SQL, Financial Modeling  
+**Methods**: Conducted financial data analysis, assisted in securitization projects (ABS/REITs), supported due diligence and feasibility analysis, and prepared industry research reports.  
+**Result**: Evaluated **$50M+ securitization projects** (ABS/REITs); delivered **10+ financial reports** for risk assessment; improved investment team’s efficiency by **15%** through streamlined Excel-based workflows.  
+ 
+
 
 ---
 
