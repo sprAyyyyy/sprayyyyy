@@ -63,7 +63,9 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 
 ---
 
-### 2. 📑 Sentiment Analysis for Marketing (NLP)   [Comprehensive Yelp Dataset Analysis: NLP, Geospatial Mapping & Social Network Insights](https://github.com/sprAyyyyy/NLP-Review-Analysis)
+### 2. 📑 Sentiment Analysis for Marketing (NLP)  
+[Comprehensive Yelp Dataset Analysis: NLP, Geospatial Mapping & Social Network Insights](https://github.com/sprAyyyyy/NLP-Review-Analysis)
+
 **Goal**: Analyze Amazon reviews to predict sentiment and support marketing insights.  
 **Tech**: PyTorch, DistilBERT, Imbalanced-learn, Sklearn, Pandas, NLP (tokenization, embeddings), Feature Engineering  
 **Models**: DistilBERT, Logistic Regression, Random Forest  
