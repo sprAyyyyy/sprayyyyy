@@ -74,6 +74,8 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 ---
 
 ### 3. 👥 Customer Segmentation (Clustering)  
+[Customer Segmentation (Clustering)]([https://github.com/sprAyyyyy/Customer-Segmentation-Clustering-/blob/main/README.md](https://github.com/sprAyyyyy/Customer-Segmentation-Clustering-))
+
 **Goal**: Tailor marketing efforts to customer audience subsets through clustering.  
 **Tech**: Sklearn, Matplotlib, Pandas, Data Transformation & Normalization, Hypothesis Testing (F-test), EDA & Visualization  
 **Models**: K-Means (evaluated multiple k-values, optimal K=5 for balance between clusters and inertia)  
