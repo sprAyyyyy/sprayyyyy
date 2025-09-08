@@ -55,7 +55,7 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 ---
 ##  Projects
 
-### 1. 🏥 Predicting 30-Day Hospital Readmissions with Vertex AI  
+###  [1. 🏥 Predicting 30-Day Hospital Readmissions (Vertex AI)](https://github.com/sprAyyyyy/Predicting-30-Day-Hospital-Readmissions-with-Vertex-AI)
 **Goal**: Predict patient readmissions within 30 days to support healthcare quality improvement.  
 **Tech**: Google Cloud Vertex AI, Python, Pandas, Numpy, Sklearn, SMOTE, EDA (log transformations, one-hot encoding), Cloud Storage  
 **Models**: Logistic Regression, Random Forest, XGBoost, Stacked Ensemble  
