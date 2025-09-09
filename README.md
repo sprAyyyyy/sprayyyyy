@@ -5,9 +5,6 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MS+Analytics+%40+USC;Python+%7C+ML+%7C+Cloud+Computing;Turning+Data+into+Insights;Cat+Lover+%26+USPSA+Shooter+%F0%9F%8E%AF)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haotianliutony)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sprayyyyy)
-
 </div>
 
 ---
