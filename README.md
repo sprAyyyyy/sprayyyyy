@@ -55,7 +55,16 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 ---
 ##  Projects
 
-###  [1. 🏥 Predicting 30-Day Hospital Readmissions (Vertex AI)](https://github.com/sprAyyyyy/Predicting-30-Day-Hospital-Readmissions-with-Vertex-AI)
+---
+
+### [1. 🧪 Executive-Grade Trial Analysis with GPT-4 & AI Automation](https://github.com/sprAyyyyy/Enhanced-Clinical-Trials-AI-Analysis)  
+**Goal**: Build AI-powered tools for competitive analysis in the biopharmaceutical industry.  
+**Tech**: Python, ClinicalTrials.gov API, Gemini, Claude, LLMs  
+**Methods**: Collaborated on StrategyXAgent project; designed and deployed an AI agent to analyze glioblastoma clinical trials; developed pipelines to parse trial metadata and generate concise business-facing summaries.  
+**Result**: Reduced competitive analysis cycle from **2–3 weeks to <2 days**; analyzed **200+ clinical trials** with LLM-powered pipelines; provided **executive-ready reports** that supported pharma investment and strategy decisions.  
+---
+
+###  [2. 🏥 Predicting 30-Day Hospital Readmissions (Vertex AI)](https://github.com/sprAyyyyy/Predicting-30-Day-Hospital-Readmissions-with-Vertex-AI)
 **Goal**: Predict patient readmissions within 30 days to support healthcare quality improvement.  
 **Tech**: Google Cloud Vertex AI, Python, Pandas, Numpy, Sklearn, SMOTE, EDA (log transformations, one-hot encoding), Cloud Storage  
 **Models**: Logistic Regression, Random Forest, XGBoost, Stacked Ensemble  
@@ -63,7 +72,7 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 
 ---
 
-###   [2. 📑 Sentiment Analysis for Marketing (NLP)](https://github.com/sprAyyyyy/NLP-Review-Analysis)
+###   [3. 📑 Sentiment Analysis for Marketing (NLP)](https://github.com/sprAyyyyy/NLP-Review-Analysis)
 
 **Goal**: Analyze Amazon reviews to predict sentiment and support marketing insights.  
 **Tech**: PyTorch, DistilBERT, Imbalanced-learn, Sklearn, Pandas, NLP (tokenization, embeddings), Feature Engineering  
@@ -72,7 +81,7 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 
 ---
 
-###  [3. 👥Customer Segmentation (Clustering)](https://github.com/sprAyyyyy/Customer-Segmentation-Clustering-)
+###  [4. 👥Customer Segmentation (Clustering)](https://github.com/sprAyyyyy/Customer-Segmentation-Clustering-)
 
 
 
@@ -95,17 +104,10 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 **Methods**: Built scalable data pipelines for enrichment/classification, cleaned & normalized datasets, standardized industry labels, segmented cohorts, and automated bulk email generation with LLMs.  
 **Result**: Automated enrichment of 1,500+ organizations; reduced manual research effort by **80%** (saving ~20 hours/week); delivered **3 Tableau dashboards** on sector trends and funding-stage distributions used by senior management.  
 
----
-
-### 2. 🧪 Chinese American Biopharmaceutical Society (CABS) – Data Science Intern  
-**Goal**: Build AI-powered tools for competitive analysis in the biopharmaceutical industry.  
-**Tech**: Python, ClinicalTrials.gov API, Gemini, Claude, LLMs  
-**Methods**: Collaborated on StrategyXAgent project; designed and deployed an AI agent to analyze glioblastoma clinical trials; developed pipelines to parse trial metadata and generate concise business-facing summaries.  
-**Result**: Reduced competitive analysis cycle from **2–3 weeks to <2 days**; analyzed **200+ clinical trials** with LLM-powered pipelines; provided **executive-ready reports** that supported pharma investment and strategy decisions.  
 
 ---
 
-### 3. 📊 Orient Securities – Market Analysis Intern in Investment Department  
+### 2. 📊 Orient Securities – Market Analysis Intern in Investment Department  
 **Goal**: Support investment risk management and market research through data-driven analysis.  
 **Tech**: Excel, SQL, Financial Modeling  
 **Methods**: Conducted financial data analysis, assisted in securitization projects (ABS/REITs), supported due diligence and feasibility analysis, and prepared industry research reports.  
