@@ -57,11 +57,13 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 
 ---
 
-### [1. 🧪 Executive-Grade Trial Analysis with GPT-4 & AI Automation](https://github.com/sprAyyyyy/Enhanced-Clinical-Trials-AI-Analysis)  
+### [1. 🧪 Executive-Grade Trial Analysis with GPT-4 & AI Automation](https://github.com/sprAyyyyy/Enhanced-Clinical-Trials-AI-Analysis) 
+
 **Goal**: Build AI-powered tools for competitive analysis in the biopharmaceutical industry.  
 **Tech**: Python, ClinicalTrials.gov API, Gemini, Claude, LLMs  
 **Methods**: Collaborated on StrategyXAgent project; designed and deployed an AI agent to analyze glioblastoma clinical trials; developed pipelines to parse trial metadata and generate concise business-facing summaries.  
 **Result**: Reduced competitive analysis cycle from **2–3 weeks to <2 days**; analyzed **200+ clinical trials** with LLM-powered pipelines; provided **executive-ready reports** that supported pharma investment and strategy decisions.  
+
 ---
 
 ###  [2. 🏥 Predicting 30-Day Hospital Readmissions (Vertex AI)](https://github.com/sprAyyyyy/Predicting-30-Day-Hospital-Readmissions-with-Vertex-AI)
@@ -89,7 +91,6 @@ Welcome to my project portfolio! I'm **Haotian Liu**, a Master’s student in An
 **Tech**: Sklearn, Matplotlib, Pandas, Data Transformation & Normalization, Hypothesis Testing (F-test), EDA & Visualization  
 **Models**: K-Means (evaluated multiple k-values, optimal K=5 for balance between clusters and inertia)  
 **Result**: Delivered a customer segmentation model that enabled personalized marketing campaigns; improved targeting accuracy and increased engagement rate by **12%**, supporting data-driven marketing strategy.  
-
 
 ---
 
