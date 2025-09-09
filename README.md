@@ -13,8 +13,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **Master's in Analytics** @ USC (GPA: 4.0/4.0)  
-🎓 **Economics + Statistics** @ UC Davis (GPA: 3.5/4.0)  
+🎓 **Master's in Analytics** @ USC   
+🎓 **Economics + Statistics** @ UC Davis   
 
 🔥 **What I'm passionate about:**
 - 🤖 Machine Learning & Deep Learning
