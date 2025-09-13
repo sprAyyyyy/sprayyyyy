@@ -5,6 +5,10 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MS+Analytics+%40+USC;Python+%7C+ML+%7C+Cloud+Computing;Turning+Data+into+Insights;Cat+Lover+%26+USPSA+Shooter+%F0%9F%8E%AF)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haotianliutony)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sprayyyyy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
 </div>
 
 ---
@@ -13,8 +17,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **Master's in Analytics** @ USC   
-🎓 **Economics + Statistics** @ UC Davis   
+🎓 **Master's in Analytics** @ USC (GPA: 4.0/4.0)  
+🎓 **Economics + Statistics** @ UC Davis (GPA: 3.5/4.0)  
 
 🔥 **What I'm passionate about:**
 - 🤖 Machine Learning & Deep Learning
@@ -91,10 +95,10 @@
 ### 🧪 AI-Powered Clinical Trials Analysis
 **Impact:** Reduced analysis time from **3 weeks → 2 days**
 
-- 🤖 Built LLM pipelines with GPT-4 & Claude
-- 📊 Analyzed **200+ clinical trials**
-- 🎯 Generated executive-ready reports
-- ⚡ **80% efficiency improvement**
+• 🤖 Built LLM pipelines with GPT-4 & Claude for automated trial parsing  
+• 📊 Analyzed **200+ clinical trials** focusing on glioblastoma research  
+• 🎯 Generated executive-ready reports for pharma investment decisions  
+• ⚡ Achieved **80% efficiency improvement** in competitive analysis workflow  
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat-square&logo=github)](https://github.com/sprAyyyyy/Enhanced-Clinical-Trials-AI-Analysis)
 
@@ -102,12 +106,12 @@
 <td width="50%">
 
 ### 🏥 Hospital Readmission Predictor
-**Achievement:** **F1 Score: 0.87** (15% improvement)
+**Achievement:** **F1 Score: 0.87** (15% improvement over baseline)
 
-- ☁️ End-to-end ML on Google Cloud Vertex AI
-- 🔧 Advanced feature engineering & SMOTE
-- 📈 Stacked ensemble models
-- 🎯 Real healthcare impact
+• ☁️ Built end-to-end ML pipeline on Google Cloud Vertex AI  
+• 🔧 Applied advanced feature engineering & SMOTE for class imbalance  
+• 📈 Deployed stacked ensemble models for robust predictions  
+• 🎯 Enabled proactive patient care through risk stratification  
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat-square&logo=github)](https://github.com/sprAyyyyy/Predicting-30-Day-Hospital-Readmissions-with-Vertex-AI)
 
@@ -116,13 +120,14 @@
 <tr>
 <td width="50%">
 
-### 📱 NLP Sentiment Analysis
-**Models:** DistilBERT + Traditional ML
+### 📱 NLP & Sentiment Analysis on Amazon Reviews
+**Discovery:** Identified sentiment-rating mismatches revealing review authenticity patterns
 
-- 🧠 Fine-tuned transformer models
-- 📊 Amazon reviews classification
-- 💼 Marketing insights integration
-- 🎯 **62% F1 Score** on imbalanced data
+• 🧠 Applied DistilBERT on **50K+ YELP reviews** for multi-model sentiment analysis  
+• 📊 Engineered features with tokenization, embeddings, and SMOTE handling  
+• 💡 Discovered discrepancies between ratings and sentiment indicating fake reviews  
+• 🎯 Achieved **66% recall, 60% precision** for customer satisfaction scoring  
+• 📈 Delivered insights for marketing optimization and product positioning  
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat-square&logo=github)](https://github.com/sprAyyyyy/NLP-Review-Analysis)
 
@@ -130,12 +135,12 @@
 <td width="50%">
 
 ### 👥 Smart Customer Segmentation
-**Business Impact:** **12% engagement increase**
+**Business Impact:** **12% engagement increase** through personalized campaigns
 
-- 🎯 K-Means clustering (K=5 optimal)
-- 📊 Statistical validation with F-tests
-- 🎨 Interactive Tableau dashboards
-- 💡 Personalized marketing campaigns
+• 🎯 Implemented K-Means clustering with optimal K=5 segments  
+• 📊 Validated results using statistical F-tests for segment significance  
+• 🎨 Created interactive Tableau dashboards for marketing teams  
+• 💡 Enabled targeted campaigns that directly increased revenue  
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-blue?style=flat-square&logo=github)](https://github.com/sprAyyyyy/Customer-Segmentation-Clustering-)
 
@@ -176,9 +181,7 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sprayyyyy&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprayyyyy&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
 
 ---
 
@@ -208,5 +211,7 @@
 ---
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=sprayyyyy&label=Profile%20Views&color=0&icon=5&pretty=true)
 
 </div>
